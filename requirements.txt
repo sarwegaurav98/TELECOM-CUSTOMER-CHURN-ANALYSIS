@@ -1,0 +1,11 @@
+# R Package Dependencies for Telecom Customer Churn Analysis
+# R version >= 4.0.0
+
+tidyverse
+ggplot2
+caret
+rpart
+rpart.plot
+pROC
+cluster
+factoextra
